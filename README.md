@@ -36,7 +36,19 @@ https://github.com/louislam/uptime-kuma
 
 ![https://sxblog.run.goorm.io/upload/2023/01/2023-01-30153436.png](https://sxblog.run.goorm.io/upload/2023/01/2023-01-30153436.png)
 
-<img src="/upload/2023/01/2023-01-30153436.png" alt="2023-01-30153436" /><br />
+<br />
 分别填入<code>PORT</code>与<code>5000</code></p>
-<pre><code class="language-bash">PORT
-</code></pre>
+
+其他的什麼都不需要改動，這次下拉網頁底部點擊圖中所示紅圈的地方
+
+![https://sxblog.run.goorm.io/upload/2023/01/2023-01-30153534.png](https://sxblog.run.goorm.io/upload/2023/01/2023-01-30153534.png)
+
+等待創建
+![https://sxblog.run.goorm.io/upload/2023/01/2023-01-30153641.png](https://sxblog.run.goorm.io/upload/2023/01/2023-01-30153641.png)
+
+创建完成
+
+![https://sxblog.run.goorm.io/upload/2023/01/2023-01-30153926.png](https://sxblog.run.goorm.io/upload/2023/01/2023-01-30153926.png)
+
+訪問網頁試試看吧！！！ 創建管理員賬號和密碼 添加監控項先把自己目前網頁監控起來，因為Render15分鐘不訪問就會休眠 URL這樣就大功告成了!!!
+![https://sxblog.run.goorm.io/upload/2023/01/2023-01-30153957.png](https://sxblog.run.goorm.io/upload/2023/01/2023-01-30153957.png)
